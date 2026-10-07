@@ -1,0 +1,11 @@
+{
+  "name": "god-mode",
+  "displayName": "God Mode",
+  "description": "THE OMNI-SKILL & MASTER AGENT ORCHESTRATOR. Unlocks, coordinates, and synthesizes every skill, MCP server, subagent, and engineering capability across all projects.",
+  "version": "1.0.0",
+  "suggestedPrompts": [
+    "Activate God Mode and architect a production-ready system",
+    "@god review my project with zero-guesswork and full diagnostics",
+    "@god build an elite responsive Flutter UI with custom animations"
+  ]
+}
